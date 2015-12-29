@@ -9,3 +9,5 @@ http://www.luiselizondo.net/a-production-ready-docker-workflow/
 http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/
 
 https://blog.ceshine.net/other/migration/
+
+http://ewanvalentine.io/writing-and-running-go-apis-in-docker/
