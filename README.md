@@ -22,4 +22,4 @@ https://www.polymer-project.org/1.0/docs/start/psk/deploy.html
 
 http://thejackalofjavascript.com/re-architecting-a-firebase-app-in-node/
 
-
+http://thejackalofjavascript.com/architecting-a-restful-node-js-app/
