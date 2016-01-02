@@ -18,4 +18,5 @@ https://www.slatestudio.com/blog/p/how-to-build-a-firebase-web-app
 
 http://www.raywenderlich.com/109706/firebase-tutorial-getting-started
 
+https://www.polymer-project.org/1.0/docs/start/psk/deploy.html
 
