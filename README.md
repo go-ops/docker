@@ -11,3 +11,11 @@ http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/
 https://blog.ceshine.net/other/migration/
 
 http://ewanvalentine.io/writing-and-running-go-apis-in-docker/
+
+https://www.airpair.com/firebase/posts/firebase-building-realtime-app
+
+https://www.slatestudio.com/blog/p/how-to-build-a-firebase-web-app
+
+http://www.raywenderlich.com/109706/firebase-tutorial-getting-started
+
+
